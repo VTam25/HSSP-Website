@@ -14,3 +14,15 @@ h1{
   font-size: x-large;
 }
 
+.aboutSite {
+  display: block;
+  background-color: white;
+
+}
+
+.socials {
+  display: block;
+  background-color: #15D5CB;
+
+}
+
