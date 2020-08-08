@@ -2,32 +2,35 @@
 h1{
 
   color: white;
+  text-align: center;
+  font-weight: bold;
+  font-family: fantasy;
 
 }
 
-.TitleBar {
+div{
   display: block;
-  background-color: #15D5CB;
 
-  text-align: center;
-  font-weight: bold;
+}
+
+.titleBar {
+
+  background-color: #15D5CB;  
   font-size: xx-large;
 }
 
 .aboutSite {
   display: block;
-  background-color: white;
   text-align: center;
   font-weight: bold;
   font-size: larger;
+  font-family: fantasy;
 
 }
 
 .socials {
   display: block;
   background-color: #15D5CB;
-  text-align: center;
-  font-weight: bold;
   font-size: larger;
 
 }
