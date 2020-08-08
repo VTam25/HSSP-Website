@@ -1,5 +1,6 @@
 .TitleBar {
     display: block;
     text-align: center;
+    font-weight: bold;
     background-color: #15D5CB;
   }
