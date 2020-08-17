@@ -1,4 +1,5 @@
 
+
 p{
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   text-align: left;
@@ -15,11 +16,20 @@ h1{
 
 }
 
+h3{
+  color: white;
+  text-align: center;
+  font-weight: normal;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
 div{
   display: block;
-  margin-top: 50 px;
-  margin-bottom: 50 px;
+}
 
+.center {
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .titleBar {
@@ -43,4 +53,5 @@ div{
   font-size: larger;
 
 }
+
 
