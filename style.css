@@ -2,7 +2,6 @@
 
 p{
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  text-align: left;
   font-weight: lighter;
 
 }
@@ -25,11 +24,14 @@ h3{
 
 body{
   height: 100%;
-  background-color: #ffabf8;  
+  background-color: #ffa6e4;  
 }
 
 div{
   display: block;
+  width: 100%;
+  margin-top: 1%;
+  margin-bottom: 1%;
 }
 
 .center {
@@ -48,6 +50,7 @@ div{
   font-weight: bold;
   font-size: larger;
   font-family: fantasy;
+  background-color: white;
 
 }
 
