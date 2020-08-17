@@ -23,6 +23,11 @@ h3{
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
+body{
+  height: 100%;
+  background-color: #ffabf8;  
+}
+
 div{
   display: block;
 }
@@ -34,7 +39,6 @@ div{
 
 .titleBar {
 
-  background-color: #ffabf8;  
   font-size: xx-large;
 }
 
@@ -49,7 +53,6 @@ div{
 
 .socials {
   display: block;
-  background-color:#ffabf8;
   font-size: larger;
 
 }
