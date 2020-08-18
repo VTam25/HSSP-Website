@@ -8,7 +8,6 @@ p{
 }
 
 h1{
-
   color: white;
   text-align: center;
   font-weight: bold;
@@ -32,8 +31,6 @@ div{
   display: block;
   orientation: landscape;
   width: 100%;
-  margin-top: 1em;
-  margin-bottom: 1em;
 }
 
 table td + td {
